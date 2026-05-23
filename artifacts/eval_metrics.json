@@ -1,0 +1,70 @@
+{
+  "test_pairs": 500,
+  "perplexity": 32.345,
+  "bleu4": 0.0217,
+  "distinct_1": 0.0028,
+  "distinct_2": 0.0039,
+  "avg_reply_tokens": 23.75,
+  "samples": [
+    {
+      "query": "<user> trying to manage my booking but won ’ t let me . is there a problem with the website ?",
+      "reference": "<user> hi scott , sorry to hear you ’ re having problems with our website . our it team are currently working to <num> / <num>",
+      "generated": "<user> hi , we can help you with your feedback . please dm us your account number and we'll take a look ."
+    },
+    {
+      "query": "<user> just dm you",
+      "reference": "<user> we've just sent you a dm <emoji>",
+      "generated": "<user> we can help you with your feedback . please dm us your account number and we'll take a look ."
+    },
+    {
+      "query": "<user> <num> . <num> . <num> seems to have helped . .",
+      "reference": "<user> that's great news . let us know if you need any further assistance .",
+      "generated": "<user> hi , we can help you . please dm us your account number and we'll take a look ."
+    },
+    {
+      "query": "<user> have flight tomorrow hel to lhr and have tried changing date of flight on app and online but both say technical problems <emoji>",
+      "reference": "<user> apologies for the late reply , hanman . if you still still to change your booking you can dm your booking reference , email and contact number .",
+      "generated": "<user> hi , we can help you with your feedback . please dm us your full address and phone number and phone number and phone number ."
+    },
+    {
+      "query": "<user> . . point but did not pick me , either he find some another customer , when i call him he did not picked the phone . <user> <user>",
+      "reference": "<user> oh no ! please send us a note at <url> and we'll be happy to look into this for you .",
+      "generated": "<user> hi , we can help you with your feedback . please dm us your account number and we'll take a look ."
+    },
+    {
+      "query": "<user> request you to process my replacement of <user> nokia <num> asap . ordered on <num> - oct . still have no clue where is my order .",
+      "reference": "<user> please reply to the email you've received from our social media team , we'll check and assist you accordingly .",
+      "generated": "<user> hi , we can help you with your feedback . please dm us your account number and we'll take a look ."
+    },
+    {
+      "query": "<user> hi , can i use a paper bonus points voucher this weekend if you're running the points booster event too ?",
+      "reference": "<user> hi there adam . can you please provide me with some more info on the event in question ? thanks , gabby",
+      "generated": "<user> hi , we can help you with your feedback . please dm us your account number and we'll take a look ."
+    },
+    {
+      "query": "<user> applewatch watchos <num> still missing the function to delete an email without scrolling through the whole email . <emoji> apple",
+      "reference": "<user> we want to help . are you able to delete an email by swiping left on the email from your inbox ? more here : <url>",
+      "generated": "<user> we can help you with your feedback . please dm us your account number and we'll take a look ."
+    },
+    {
+      "query": "<user> yes , i was told to reorder and i'd be credited and i haven't been credited . .",
+      "reference": "<user> we can follow up . please provide us with the email address to your account via dm and a member of our team will follow up .",
+      "generated": "<user> hi , we can help you with your feedback . please dm us your account number and we'll take a look ."
+    },
+    {
+      "query": "<user> i had a question about my account .",
+      "reference": "<user> just left you a vm . please let us know a better time to contact you back .",
+      "generated": "<user> hi , we can help you with your feedback . please dm us your account number and we'll take a look ."
+    },
+    {
+      "query": "<user> have to change the instrument panel on the plane ( flight aa <num> ) ? <num> minute delay to fix it and send us off , reassuring ? ?",
+      "reference": "<user> our maintenance team are professionals and your safety will always be our top priority . thanks for your patience , darren .",
+      "generated": "<user> hi , we can help you with your feedback . please dm us your account number and we'll take a look ."
+    },
+    {
+      "query": "<user> just to give you a little more help i made a video showing excactly what it's doing . <url>",
+      "reference": "<user> got it . for better assistance and support , we suggest contacting our answer desk team here : <url> let us know if you encounter any issues contacting them .",
+      "generated": "<user> hi , we can help you with your feedback . please dm us your full address and phone number and phone number and phone number and phone number ."
+    }
+  ]
+}

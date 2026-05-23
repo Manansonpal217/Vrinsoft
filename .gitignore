@@ -1,0 +1,22 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS / IDE
+.DS_Store
+.vscode/
+.idea/
+.claude/
+
+# Raw dataset (504 MB - exceeds GitHub's 100 MB file limit; see README for source)
+sample_data/twcs/
+
+# Training log (regenerated each run)
+artifacts/train.log
+
+# Local task brief (private)
+Practical task - AI-ML developer.docx
